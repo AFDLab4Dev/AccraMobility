@@ -12,3 +12,8 @@ Since 2017, this GTFS is produced from [OpenStreetMap](http://openstreetmap.org)
 Useful links :
 * [GTFS format specification](https://developers.google.com/transit/gtfs/)
 * [OSM2GTFS](https://github.com/grote/osm2gtfs/)
+
+
+## Contributing
+
+To update the GTFS file with the last OSM data, please follow [the instructions in the OSM Wiki](https://wiki.openstreetmap.org/wiki/OSM2GTFS_for_Accra_-_user_manual)
