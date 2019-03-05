@@ -1,12 +1,14 @@
 # AccraMobility
 
+## Checkout [DigitalTransport4Africa GitLab](https://git.digitaltransport4africa.org)
+
 ## Context
 
-On this repository you will find all resources available on the project Accra Mobility (previously Accra Mobile) led by Municipality of Accra and AFD (Agence Française de Développement).
+In this repository you will find all resources available on the project Accra Mobility (previously Accra Mobile) led by Municipality of Accra and AFD (Agence Française de Développement).
 
-More information about the project is available on beta.dataspace.fr/accramobility.
+More information about the project is [here](http://data.afd.fr/accramobility/).
 
-Our friends from JungleBus have made a map, you can find it here: http://junglebus.io/accra/#13/5.5781/-0.2432. Check http://wiki.openstreetmap.org/wiki/AccraMobile3 for more details on methodology :) ! 
+Our friends from JungleBus have made a map, you can find it [here](http://junglebus.io/accra/#13/5.5781/-0.2432). Check [AccraMobile3](http://wiki.openstreetmap.org/wiki/AccraMobile3) for more details on methodology :) ! 
 
 ## How to get raw data (geojson) ?
 
@@ -14,9 +16,9 @@ Lines have been mapped on OpenStreetMap. The easiest way to get the most up-do-d
 
 How to do it ?
 
-A simple web-app, called [overpass-turbo](http://overpass-turbo.eu/), allow to do simple queries on OpenStreetMap and download as a geojson all the data.
+A simple web-app, called [overpass-turbo](http://overpass-turbo.eu/), allows you to do simple queries on OpenStreetMap and download all the data as a GeoJSON file.
 
-You should have to go on http://overpass-turbo.eu/ and copy-paste the following block:
+You should go to [Overpass-Turbo](http://overpass-turbo.eu/) and copy, paste and run the following block:
 
 ```
 [out:json];
@@ -42,4 +44,3 @@ A few other useful requests :
 - Map (in SVG)
 - GTFS Data
 - Research papers
-
