@@ -1,7 +1,9 @@
 Transit Data of Trotro network in Accra
 
 ## GTFS
-Direct download url : https://github.com/AFDLab4Dev/AccraMobility/raw/master/GTFS/GTFS_Accra.zip
+~Direct download url:~  ~https://github.com/AFDLab4Dev/AccraMobility/raw/master/GTFS/GTFS_Accra.zip~
+
+:construction: :warning: Deprecated - please use the GTFS at [DigitalTransport4Africa GitLab](https://git.digitaltransport4africa.org) :construction: :warning:
 
 The data described in this GTFS offers a general description of existing transport services in Accra.<br/>
 The information included in this data was collected as part of a data collection campaign on Accra’s transport. <br/>
